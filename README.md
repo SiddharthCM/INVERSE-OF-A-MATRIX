@@ -6,10 +6,10 @@ To write a python program to find the inverse of a matrix
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 
-### Step1 : Gauss–Jordan method
-### Step 2: Adjoint method
-### Step 3: LU Decomposition
-### Step 4: Elementary row operations 
+### Step1 : Import the NumPy library.
+### Step 2: Create and store the matrix A.
+### Step 3: Compute the inverse of matrix A using np.linalg.inv().
+### Step 4: Display the inverse matrix.
 
 ## Program:
 ```python
